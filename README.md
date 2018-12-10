@@ -47,7 +47,9 @@ Packge.json里babel加上plugins配置
 
 #### 9、antd中处理按需加载
 
-> npm install  babel-plugin-import —save（按需加载）
+>方法1： https://www.jianshu.com/p/0361344c6231 
+
+>方法2： npm install  babel-plugin-import —save（按需加载）
 
 并且对package.json做如下配置
 
